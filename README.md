@@ -1,7 +1,15 @@
+
+
 # Cat Clicker
 This is a simple JavaScript app that keeps track of the number of clicks while on the selected photo.  You may choose between five different cat photos.  Once you switch to another photo your click count is lost (for now).
 
+#Screenshot
+
+![Screenshot](img/ScreenShot.png)
+
 The live, playable game can be found [here](https://js-goose.github.io/cat-clicker/).
+
+
 
 # Project Design
 I chose something simple and easy on the eyes as I'm not the best designer.  I feel as though the layout works well and has a natural flow to it.
